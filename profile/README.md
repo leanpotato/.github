@@ -10,9 +10,9 @@
 	<br>
 </div>
 <p align="center">
-	<a href="leanpotato.md">What is Lean Potato?</a>&nbsp;&nbsp;&nbsp;
+	<a href="leanpotato.md">Overview</a>&nbsp;&nbsp;&nbsp;
 	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
-	<a href="create-practice.md">Creating a hands-on practice</a>&nbsp;&nbsp;&nbsp;
+	<a href="create-tutorial.md">How to add hands-on Learning</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://twitter.com/leanpotato">Twitter</a>&nbsp;&nbsp;&nbsp;
 </p>
 <br>
