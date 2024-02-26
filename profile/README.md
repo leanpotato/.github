@@ -42,7 +42,24 @@ The Lean Potato Team 🥔
 
 ## Contents
 
+- [Anaconda](#anaconda)
+- [Jupyter Notebook](#jupyter-notebook)
+- [Colab](#colab)
+- [Pandas](#pandas)
+- [Python](#python)
+- [Pytorch](#pytorch)
+- [Prompt Engineering](#prompt-engineering) @taehallm
 - [LangChain](#langchain)
+- [Modal](#modal)
 - ...
 
+## Anaconda 
+- ...
+
+
 ## LangChain
+- ...
+
+## Modal
+- ...
+
