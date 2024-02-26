@@ -1,12 +1,18 @@
-## Hi there 👋
 
-<!--
+# Lean Potato 
 
-**Here are some ideas to get you started:**
+## Objective
+Share lean, hands-on learning materials for all
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Remember
+- **Be open**: Knowledge is free and accessible. We share, learn, and grow together.
+- **Do colab**: Every contribution counts. We build on each other's ideas and work together towards common goals.
+- **Hands-on**: Learn by doing. Learn by doing. Learn by doing. 
+- **Respect**: A community for all. We value diversity and promote an environment where everyone is welcome.
+- **Share**: Celebrate successes, learn from failures. Every experience is a step forward.
+
+## Join Us
+If you feel that learning and giving to others is like compounding to yourself, join us. Make learning AI awesome and accessible to everyone. 
+
+The Lean Potato Team 🥔
+
