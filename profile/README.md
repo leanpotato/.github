@@ -2,7 +2,7 @@
 	<br>
 	<br>
 	<br>
-	<img width="363" height="93" src="../media/logo-ng.png" alt="Lean Potato">
+	<img width="363" height="93" src="media/logo-ng.png" alt="Lean Potato">
 	<br>
 	<br>
 	<br>
