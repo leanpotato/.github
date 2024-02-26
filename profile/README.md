@@ -1,5 +1,5 @@
 
-# Lean Potato 
+# Hi 👋
 
 ## Objective
 Share lean, hands-on learning materials for all
