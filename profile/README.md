@@ -26,7 +26,7 @@
 
 
 ## Objective
-Share lean, hands-on learning practices for all!!!
+Share lean, hands-on learning learning about AI for all!!!
 
 ## Remember
 - **Be open**: Knowledge is free and accessible. We share, learn, and grow together.
