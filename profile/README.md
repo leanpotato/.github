@@ -1,8 +1,32 @@
+<div align="center">
+	<br>
+	<br>
+	<br>
+	<img width="363" height="93" src="../media/logo-ng.png" alt="Lean Potato">
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+</div>
+<p align="center">
+	<a href="leanpotato.md">What is Lean Potato?</a>&nbsp;&nbsp;&nbsp;
+	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
+	<a href="create-practice.md">Creating a hands-on practice</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://twitter.com/leanpotato">Twitter</a>&nbsp;&nbsp;&nbsp;
+</p>
+<br>
+<br>
+<p align="center">
+	Just click <a href="https://leanpotato.ghost.io/"><code>leanpotato.ghost.io</code></a> to join new project. <br> Check out our work under and follow me on <a href="https://twitter.com/taehallm">Twitter</a> for updates.
+</p>
+<br>
+<br>
+<hr>
 
-# Hi 👋
 
 ## Objective
-Share lean, hands-on learning materials for all
+Share lean, hands-on learning practices for all!!!
 
 ## Remember
 - **Be open**: Knowledge is free and accessible. We share, learn, and grow together.
@@ -16,3 +40,9 @@ If you feel that learning and giving to others is like compounding to yourself, 
 
 The Lean Potato Team 🥔
 
+## Contents
+
+- [LangChain](#langchain)
+- ...
+
+## LangChain
